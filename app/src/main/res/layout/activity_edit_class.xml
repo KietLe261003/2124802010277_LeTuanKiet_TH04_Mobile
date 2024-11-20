@@ -3,10 +3,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".EditClassActivity">
+    android:layout_height="match_parent">
 
     <TextView
+        android:layout_marginTop="50dp"
         android:id="@+id/txtClassLabel"
         android:background="#ffcc"
         android:gravity="center"

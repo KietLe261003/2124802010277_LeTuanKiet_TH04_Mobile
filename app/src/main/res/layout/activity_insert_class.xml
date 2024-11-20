@@ -6,6 +6,7 @@
     android:layout_height="match_parent">
 
     <TextView
+        android:layout_marginTop="50dp"
         android:id="@+id/txtClassLabel"
         android:background="#ffcc"
         android:gravity="center"
